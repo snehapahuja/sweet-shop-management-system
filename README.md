@@ -177,25 +177,44 @@ You can access the live API here:
 
 
 ## Data Flow Diagram
-
-**Step 1:** You Click "Add to Cart" ↓  
-**Website** (What you see in your browser) ↓
-
-**Step 2:** Website Sends Request "Hey Backend, user wants to buy 1 Gulab Jamun!" (Also sends: User's login token to prove who they are) ↓  
-**Backend** (The brain - running on Render server) ↓
-
-**Step 3:** Backend Checks ✓ Is this person logged in? ✓ Is the sweet available? ↓  
-**Database** (Storage - MongoDB Atlas in the cloud) ↓
-
-**Step 4:** Database Updates  
-Before: Gulab Jamun quantity = 100  
-After: Gulab Jamun quantity = 99  
-Also marks: Still in stock? YES ✓ ↓
-
-**Step 5:** Backend Sends Response "Success! You bought 1 Gulab Jamun. 99 left in stock." ↓  
-**Website** ↓
-
-**Step 6:** You See Success Message! "Purchased Gulab Jamun!"
+```
+Step 1: You Click "Add to Cart" 
+         ↓
+    ┌─────────┐
+    │ Website │ (What you see in your browser)
+    └─────────┘
+         ↓
+Step 2: Website Sends Request 
+    "Hey Backend, user wants to buy 1 Gulab Jamun!"
+    (Also sends: User's login token to prove who they are)
+         ↓
+    ┌─────────┐
+    │ Backend │ (The brain - running on Render server)
+    └─────────┘
+         ↓
+Step 3: Backend Checks 
+    ✓ Is this person logged in? (Checks token)
+    ✓ Is the sweet available?
+         ↓
+    ┌──────────┐
+    │ Database │ (Storage - MongoDB Atlas in the cloud)
+    └──────────┘
+         ↓
+Step 4: Database Updates 
+    Before: Gulab Jamun quantity = 100
+    After:  Gulab Jamun quantity = 99
+    Also marks: Still in stock? YES ✓
+         ↓
+Step 5: Backend Sends Response 
+    "Success! You bought 1 Gulab Jamun. 99 left in stock."
+         ↓
+    ┌─────────┐
+    │ Website │ 
+    └─────────┘
+         ↓
+Step 6: You See Success Message! 
+    " Purchased Gulab Jamun!"
+```
     
 ### Screenshots
 
@@ -234,10 +253,13 @@ I used Claude AI as my AI assisstant throughout this project that help me with:
 
 Overall, the AI assistant was a very helpful tool throughout this project, AI explained "why" things work, not just "how", major help by saving hours on debugging and setup,got instant answers to questions, generated boilerplate quickly and ensured learning a ton at each and every step.
 
-----------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***"Code is like humor. When you have to explain it, it's bad." – Cory House***
 
 This project speaks for itself through clean architecture, comprehensive testing, and delightful user experience. Built with passion, powered by modern technology, and enhanced by AI collaboration.
 
-**Happy Sweet Shopping!**
+                                                             ### Built with a serious craving of Gulab Jamun
+                                                             ###  "Life is short, eat the sweets first!" 
+
+**Happy Coding & Happy Eating!** 
 **Thank you for reviewing this project!**
