@@ -89,7 +89,7 @@ const sweetData = [
     rating: 4.7
   },
   {
-    name: 'Jalebi',
+    name: 'Jalebii',
     category: 'Traditional',
     price: 100,
     quantity: 60,
