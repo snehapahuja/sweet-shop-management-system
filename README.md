@@ -1,19 +1,26 @@
-# Mithai & Mousse - A Sweet Symphony("Indian Seets with Modern Treats")
+<img width="1906" height="855" alt="Screenshot 2025-12-14 140512" src="https://github.com/user-attachments/assets/31b67f03-8dd1-415a-bf11-1139c6503831" /># Mithai & Mousse - A Sweet Symphony("Indian Seets with Modern Treats")
 
 A delightful full-stack web application that brings the joy of traditional sweets into the digital age! Imagine walking into a sweet shop where everything just works. That's what I've built here - a beautiful, intuitive platform where customers can browse mouthwatering sweets while admins effortlessly manage their inventory. Every interaction feels smooth, every design choice has purpose, and the whole experience is just... sweet!
 
 
-<img width="1896" height="844" alt="Screenshot 2025-12-14 140455" src="https://github.com/user-attachments/assets/08dd5ec7-e9e2-4a76-bb01-298adc4d704b" />
+<img width="1917" height="862" alt="Screenshot 2025-12-14 140435" src="https://github.com/user-attachments/assets/96a2e201-bac0-4dd9-84c2-dcf8cde30c82" />
+
 
 
 ## Experience
 For Sweet Lovers:
+
+<img width="1896" height="844" alt="Screenshot 2025-12-14 140455" src="https://github.com/user-attachments/assets/fec5e6f1-3bdf-4f03-a85f-810507758b4c" />
+
 
 -Discover a stunning collection of sweets with gorgeous real images
 -Search and filter by your favorite categories and price ranges
 -See live stock updates and ratings
 
 For Shop Owners:
+
+<img width="1849" height="831" alt="Screenshot 2025-12-14 140550" src="https://github.com/user-attachments/assets/562a782d-e0de-45ee-b9f6-d38b8c7e9dbb" />
+
 
 -Manage your entire inventory from one s dashboard
 -Add new sweets with all the details
@@ -144,20 +151,42 @@ Believe in code that works, which includes testing both the frontend and backend
 cd backend
 npm test
 ```
-
 ### Test the Frontend
 
 ```
 cd frontend
 npm test
 ```
+<img width="1913" height="865" alt="Screenshot 2025-12-14 115526" src="https://github.com/user-attachments/assets/79226992-047f-4853-89f0-6501d26db662" />
 
-## Screenshots
+<img width="1429" height="822" alt="Screenshot 2025-12-14 143122" src="https://github.com/user-attachments/assets/bf5b232b-2e13-44e2-99ee-1d1124af3e15" />
 
-![Home Page](frontend/public/assets/images/add.png)
-![Login Page](frontend/public/assets/images/login.png)
-![Register Page](frontend/public/assets/images/register.png)
-![Sweets Management Page](frontend/public/assets/images/sweets.png)
+
+### Screenshots
+
+### Register Page
+
+ <img width="1904" height="744" alt="Screenshot 2025-12-14 140529" src="https://github.com/user-attachments/assets/d8638040-0dcf-487a-9dc2-910528ba1765" />
+
+### Login Page
+
+ <img width="1906" height="855" alt="Screenshot 2025-12-14 140512" src="https://github.com/user-attachments/assets/8005f97d-91ff-4d19-844e-83ab7b950aee" />
+
+### User(filters)
+
+<img width="1889" height="859" alt="Screenshot 2025-12-14 142838" src="https://github.com/user-attachments/assets/9417b47c-f478-440b-a626-1e9a48bcb07f" />
+
+### Admin(add new sweet)
+
+<img width="768" height="862" alt="Screenshot 2025-12-14 140616" src="https://github.com/user-attachments/assets/b1047320-1c70-43bb-95bf-082d9592d83f" />
+
+### Admin(edit sweet)
+
+<img width="1123" height="840" alt="Screenshot 2025-12-14 140601" src="https://github.com/user-attachments/assets/a190cc11-464c-42be-ad33-47be5404dc51" />
+
+### Admin(restock sweet)
+
+<img width="1019" height="630" alt="Screenshot 2025-12-14 140608" src="https://github.com/user-attachments/assets/78422324-ee60-4a95-84ef-b26a7607fc7b" />
 
 ## My AI Usage
 
