@@ -178,13 +178,13 @@ You can access the live API here:
 
 ### Data Flow Diagram
 
-Step 1: You Click "Add to Cart" 
+Step 1:  You Click "Add to Cart" 
          ↓
     ┌─────────┐
     │ Website │ (What you see in your browser)
     └─────────┘
          ↓
-Step 2: Website Sends Request 
+Step 2:  Website Sends Request 
     "Hey Backend, user wants to buy 1 Gulab Jamun!"
     (Also sends: User's login token to prove who they are)
          ↓
@@ -192,7 +192,7 @@ Step 2: Website Sends Request
     │ Backend │ (The brain - running on Render server)
     └─────────┘
          ↓
-Step 3: Backend Checks 
+Step 3:  Backend Checks 
     ✓ Is this person logged in? (Checks token)
     ✓ Is the sweet available?
          ↓
@@ -200,19 +200,19 @@ Step 3: Backend Checks
     │ Database │ (Storage - MongoDB Atlas in the cloud)
     └──────────┘
          ↓
-Step 4: Database Updates 
+Step 4:  Database Updates 
     Before: Gulab Jamun quantity = 100
     After:  Gulab Jamun quantity = 99
     Also marks: Still in stock? YES ✓
          ↓
-Step 5: Backend Sends Response 
+Step 5:  Backend Sends Response 
     "Success! You bought 1 Gulab Jamun. 99 left in stock."
          ↓
     ┌─────────┐
     │ Website │ 
     └─────────┘
          ↓
-Step 6: You See Success Message! 
+Step 6:  You See Success Message! 
     " Purchased Gulab Jamun!"
 
     
