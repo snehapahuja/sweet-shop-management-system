@@ -258,8 +258,9 @@ Overall, the AI assistant was a very helpful tool throughout this project, AI ex
 
 This project speaks for itself through clean architecture, comprehensive testing, and delightful user experience. Built with passion, powered by modern technology, and enhanced by AI collaboration.
 
-                                                             ### Built with a serious craving of Gulab Jamun
-                                                             ###  "Life is short, eat the sweets first!" 
+                                                            ---
 
-**Happy Coding & Happy Eating!** 
-**Thank you for reviewing this project!**
+##  Built with a serious craving of Gulab Jamun
+##  "Life is short, eat the sweets first!"
+
+**Happy Coding & Happy Eating! Thank you for reviewing this project!** 
