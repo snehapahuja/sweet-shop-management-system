@@ -2,6 +2,10 @@
 
 A delightful full-stack web application that brings the joy of traditional sweets into the digital age! Imagine walking into a sweet shop where everything just works. That's what I've built here - a beautiful, intuitive platform where customers can browse mouthwatering sweets while admins effortlessly manage their inventory. Every interaction feels smooth, every design choice has purpose, and the whole experience is just... sweet!
 
+
+<img width="1896" height="844" alt="Screenshot 2025-12-14 140455" src="https://github.com/user-attachments/assets/08dd5ec7-e9e2-4a76-bb01-298adc4d704b" />
+
+
 ## Experience
 For Sweet Lovers:
 
