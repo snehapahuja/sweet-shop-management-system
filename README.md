@@ -1,4 +1,4 @@
-# Mithai & Mousse - A Sweet Symphony("Indian Seets with Modern Treats")
+# Mithai & Mousse - A Sweet Symphony("Indian Sweets with Modern Treats")
 
 A delightful full-stack web application that brings the joy of traditional sweets into the digital age! Imagine walking into a sweet shop where everything just works. That's what I've built here - a beautiful, intuitive platform where customers can browse mouthwatering sweets while admins effortlessly manage their inventory. Every interaction feels smooth, every design choice has purpose, and the whole experience is just... sweet!
 
