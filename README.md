@@ -69,6 +69,7 @@ Design Features
 - Node.js (v14 or higher)
 - MongoDB Atlas account (Free tier) - [Sign up here](https://www.mongodb.com/cloud/atlas)
 - A code editor like VS Code
+- Render(for deploying optional)
 
 ### Configure Environment Variables
 
@@ -98,7 +99,7 @@ REACT_APP_API_URL=http://localhost:5000
 
 * `REACT_APP_API_URL`: stores the backend server address `http://localhost:5000` that the React app will send requests to. It helps React know where to fetch data or send information.
 
-### Seed the Database(Optional):
+### Seed the Database:
 This adds 12 beautiful sweets with real images to get you started!
     ```
     cd backend
@@ -160,6 +161,19 @@ npm test
 <img width="1913" height="865" alt="Screenshot 2025-12-14 115526" src="https://github.com/user-attachments/assets/79226992-047f-4853-89f0-6501d26db662" />
 
 <img width="1429" height="822" alt="Screenshot 2025-12-14 143122" src="https://github.com/user-attachments/assets/bf5b232b-2e13-44e2-99ee-1d1124af3e15" />
+
+
+### Deployment:
+
+### Frontend Deployment - The frontend of the project has been deployed to Render, making it accessible through a live URL.
+
+You can access the live version of the frontend here:  
+**[Frontend URL](https://sweet-shop-frontend-7uj8.onrender.com)**
+
+### Backend Deployment- The backend API is also deployed on Render, providing a fully functional backend that interacts with the frontend.
+
+You can access the live API here:  
+**[Backend API URL](https://sweet-shop-backend-bd6g.onrender.com)**
 
 
 ### Screenshots
