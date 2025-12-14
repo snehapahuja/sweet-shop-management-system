@@ -29,26 +29,26 @@ For Shop Owners:
 ## Features
 User Features
 
-1.Browse Sweets - View all available sweets with images and details
-2.Search & Filter - Find sweets by name, category, or price range
-3.Purchase - Buy sweets with one click, quantity updates automatically
-4.User Accounts - Register and login securely
-5.View Details - See price, description, stock availability, and ratings
+1. Browse Sweets - View all available sweets with images and details
+2. Search & Filter - Find sweets by name, category, or price range
+3. Purchase - Buy sweets with one click, quantity updates automatically
+4. User Accounts - Register and login securely
+5. View Details - See price, description, stock availability, and ratings
 
 Admin Features
 
-1.Manage Inventory - Add new sweets to the shop
-2.Update Products - Edit sweet details, prices, and descriptions
-3.Delete Items - Remove sweets from the catalog
-4.Stock Management - Track inventory levels and restock items
-5.Admin Dashboard - Special interface for managing the shop
+1. Manage Inventory - Add new sweets to the shop
+2. Update Products - Edit sweet details, prices, and descriptions
+3. Delete Items - Remove sweets from the catalog
+4. Stock Management - Track inventory levels and restock items
+5. Admin Dashboard - Special interface for managing the shop
 
 Design Features
 
-1.Modern Look - Clean, colorful interface with smooth animations
-2.Mobile Friendly - Works perfectly on phones, tablets, and computers
-3.Real-time Updates - See changes instantly 
-4.Easy Navigation - Simple menus and clear buttons
+1. Modern Look - Clean, colorful interface with smooth animations
+2. Mobile Friendly - Works perfectly on phones, tablets, and computers
+3. Real-time Updates - See changes instantly 
+4. Easy Navigation - Simple menus and clear buttons
 
 ## Technologies Used
 
