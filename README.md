@@ -13,42 +13,42 @@ For Sweet Lovers:
 <img width="1896" height="844" alt="Screenshot 2025-12-14 140455" src="https://github.com/user-attachments/assets/fec5e6f1-3bdf-4f03-a85f-810507758b4c" />
 
 
--Discover a stunning collection of sweets with gorgeous real images
--Search and filter by your favorite categories and price ranges
--See live stock updates and ratings
+- Discover a stunning collection of sweets with gorgeous real images
+- Search and filter by your favorite categories and price ranges
+- See live stock updates and ratings
 
 For Shop Owners:
 
 <img width="1849" height="831" alt="Screenshot 2025-12-14 140550" src="https://github.com/user-attachments/assets/562a782d-e0de-45ee-b9f6-d38b8c7e9dbb" />
 
 
--Manage your entire inventory from one s dashboard
--Add new sweets with all the details
--Update prices and quantities 
+- Manage your entire inventory from one dashboard
+- Add new sweets with all the details
+- Update prices and quantities 
 
 ## Features
 User Features
 
-Browse Sweets - View all available sweets with images and details
-Search & Filter - Find sweets by name, category, or price range
-Purchase - Buy sweets with one click, quantity updates automatically
-User Accounts - Register and login securely
-View Details - See price, description, stock availability, and ratings
+1.Browse Sweets - View all available sweets with images and details
+2.Search & Filter - Find sweets by name, category, or price range
+3.Purchase - Buy sweets with one click, quantity updates automatically
+4.User Accounts - Register and login securely
+5.View Details - See price, description, stock availability, and ratings
 
 Admin Features
 
-Manage Inventory - Add new sweets to the shop
-Update Products - Edit sweet details, prices, and descriptions
-Delete Items - Remove sweets from the catalog
-Stock Management - Track inventory levels and restock items
-Admin Dashboard - Special interface for managing the shop
+1.Manage Inventory - Add new sweets to the shop
+2.Update Products - Edit sweet details, prices, and descriptions
+3.Delete Items - Remove sweets from the catalog
+4.Stock Management - Track inventory levels and restock items
+5.Admin Dashboard - Special interface for managing the shop
 
 Design Features
 
-Modern Look - Clean, colorful interface with smooth animations
-Mobile Friendly - Works perfectly on phones, tablets, and computers
-Real-time Updates - See changes instantly 
-Easy Navigation - Simple menus and clear buttons
+1.Modern Look - Clean, colorful interface with smooth animations
+2.Mobile Friendly - Works perfectly on phones, tablets, and computers
+3.Real-time Updates - See changes instantly 
+4.Easy Navigation - Simple menus and clear buttons
 
 ## Technologies Used
 
